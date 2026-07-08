@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "550143269160",
+    "firebase_url": "https://iot-happyplant-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-happyplant",
+    "storage_bucket": "iot-happyplant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550143269160:android:eec896a66c5d93e5f7181d",
+        "android_client_info": {
+          "package_name": "com.example.happyplant_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRT8rWl75wLRyUiaPW5S914sHXr5EZjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550143269160:android:7011a858506215f3f7181d",
+        "android_client_info": {
+          "package_name": "com.example.iot_happyplant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRT8rWl75wLRyUiaPW5S914sHXr5EZjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
